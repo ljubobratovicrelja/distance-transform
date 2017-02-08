@@ -1,0 +1,13 @@
+{
+    "name": "dtdemo",
+    "authors": [
+        "Relja Ljubobratovic"
+    ],
+    "dependencies": {
+        "derelict-ft": "~>1.1.3",
+        "dcv": "~>0.1.7"
+    },
+    "description": "Distance Transform Algorithm Demo Program.",
+    "copyright": "Copyright © 2017, Relja Ljubobratovic",
+    "license": "MIT"
+}
