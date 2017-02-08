@@ -18,7 +18,7 @@ Demo program has two sub-programs:
 
 ## Visualization
 
-...Works with an arbitrary image (which is easily binarizer), uses it and shows in the similar fashion to the animation sub-program, how distance transform is evaluated. Say, using an image like this:
+...Works with an arbitrary image (which is easily binarized), uses it and shows in the similar fashion to the animation sub-program, how distance transform is evaluated. Say, using an image like this:
 
 ![deer-input](https://github.com/ljubobratovicrelja/distance-transform/blob/master/images/deer-input.png?raw=true)
 
